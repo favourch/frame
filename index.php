@@ -1,1 +1,1 @@
-<iframe src="openfamilychurch.org.ng"></iframe>
+<iframe src="http://openfamilychurch.org.ng"></iframe>
